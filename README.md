@@ -1,4 +1,4 @@
-<h1>Business Experiment</h1><br>
+<h1>Causal Experiment</h1><br>
 Team members :  Ying Zhang, Christian Lawrence, Jiazheng Li, Michelle Lensing, and Tiam Moradi<br><br>
 
 
