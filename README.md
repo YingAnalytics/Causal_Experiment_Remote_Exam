@@ -2,7 +2,7 @@
 Team members :  Ying Zhang, Christian Lawrence, Jiazheng Li, Michelle Lensing, and Tiam Moradi<br><br>
 
 
-</h2>Causal_Experiment_Remote_Exam</h2> <br><br>
+<h2>Causal_Experiment_Remote_Exam</h2> <br><br>
 With remote learning becoming the norm across universities in the United States, teachers have had to innovate around the way they assess their students. Some universities and professors have adopted strict remote exam guidelines while others have taken advantage of the flexible situation and provided more relaxed guidelines, which begs the question(s): what’s the best way to distribute a remote assessment? Does having a quiz with camera on affect a student’s performance? Will having people sit on a call improve or worsen student scores? This experiment aims to take a first pass at assessing the optimal method of administering remote assessments. <br><br>
 
 
