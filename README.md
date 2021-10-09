@@ -1,5 +1,5 @@
-<h1>Business Experiment</h1>
-Team members :  Ying Zhang, Christian Lawrence, Jiazheng Li, Michelle Lensing, and Tiam Moradi
+<h1>Business Experiment</h1><br>
+Team members :  Ying Zhang, Christian Lawrence, Jiazheng Li, Michelle Lensing, and Tiam Moradi<br><br>
 
 
 </h2>Causal_Experiment_Remote_Exam</h2>
